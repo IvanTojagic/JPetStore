@@ -1,0 +1,11 @@
+Preconditions:
+1. user already logged in
+
+Steps:
+
+1. click on settings
+2. click on log out
+
+Expected result:
+
+user has been successfully logged out from the app
