@@ -1,0 +1,9 @@
+Steps:
+
+1. open the app
+2. enter valid credentials
+3. click on Log in button
+
+Expected result:
+
+User has been successfully logged in and home page presented.
